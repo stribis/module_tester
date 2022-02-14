@@ -1,5 +1,5 @@
-import { gsap } from "./node_modules/gsap";
-import { MotionPathPlugin } from "./node_modules/gsap/MotionPathPlugin";
+import { gsap } from "/node_modules/gsap";
+import { MotionPathPlugin } from "/node_modules/gsap/MotionPathPlugin";
 
 gsap.registerPlugin(MotionPathPlugin);
 
